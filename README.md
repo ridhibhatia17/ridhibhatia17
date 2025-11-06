@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </p>
 
 <div align="center">
@@ -22,27 +22,17 @@
 
 ## 🚀 About Me
 
-```javascript
-const ridhi = {
-    pronouns: "She/Her",
-    code: ["JavaScript", "Java", "Python", "Dart", "SQL"],
-    askMeAbout: ["web dev", "app dev", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            databases: ["MySQL", "MongoDB", "Firebase"]
-        },
-        mobile: ["Flutter", "React Native"],
-        devOps: ["Docker", "Git", "GitHub Actions"],
-        tools: ["Figma", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+```yaml
+name: Ridhi Bhatia
+located_in: Punjab, India
+current_role: Freelance Full Stack Developer
+expertise: Web Development | AI/ML | Mobile App Development
+education: Computer Science
+interests:
+  - Full Stack Development
+  - Artificial Intelligence & Machine Learning
+  - Open Source Contribution
+  - Problem Solving
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -116,6 +106,24 @@ const ridhi = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridhibhatia17&theme=radical" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridhibhatia17&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ridhibhatia17&theme=radical" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridhibhatia17&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridhibhatia17&theme=radical" width="49%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -146,8 +154,6 @@ const ridhi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
   ### ⭐ If you like my work, consider giving my repositories a star!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/ridhibhatia17/count.svg)
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
