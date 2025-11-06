@@ -177,7 +177,7 @@ console.log("Always learning, always growing! 🚀");
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-  Made with 💜 by Ridhi Bhatia
+ 
   
 </div>
 
