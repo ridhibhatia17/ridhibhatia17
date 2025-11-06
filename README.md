@@ -141,15 +141,15 @@ console.log("Always learning, always growing! 🚀");
 ## 🌐 Let's Connect
 
 <div align="center">
+### 💼 Available for Freelance Projects!
+**Let's build something amazing together 🚀**
 
-
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhibhatia17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ridhibhatia.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhbht4@example.com)
 
-<br>
-### 💼 Available for Freelance Projects!
-**Let's build something amazing together 🚀**
+
 
 </div>
 
