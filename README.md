@@ -24,7 +24,7 @@
 
 ```yaml
 name: Ridhi Bhatia
-located_in: Punjab, India
+located_in: Haryana, India
 current_role: Freelance Full Stack Developer
 expertise: Web Development | AI/ML | Mobile App Development
 education: Computer Science
@@ -159,7 +159,7 @@ interests:
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-  Made with 💜 by Ridhi Bhatia
+  
   
 </div>
 
