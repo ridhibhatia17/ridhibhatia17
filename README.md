@@ -45,6 +45,7 @@ interests:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -123,10 +124,31 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect with Me
+## 🎯 Current Focus
+
+```javascript
+const currentFocus = {
+    learning: ["Machine Learning", "Deep Learning", "Advanced DSA"],
+    building: ["Full Stack Web Applications", "Mobile Apps", "AI/ML Models"],
+    exploring: ["AI/ML Projects", "Cloud Computing", "System Design"],
+    improving: ["DSA", "Code Optimization", "Scalable Architecture"],
+    freelancing: ["Full Stack Development", "API Integration"]
+};
+
+console.log("Always learning, always growing! 🚀");
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌐 Let's Connect
 
 <div align="center">
-  
+
+### 💼 Available for Freelance Projects!
+**Let's build something amazing together 🚀**
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhibhatia17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ridhibhatia.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhbht4@example.com)
@@ -135,8 +157,18 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🎨 Profile Views Counter
+
 <div align="center">
   
+![Profile Views](https://komarev.com/ghpvc/?username=ridhibhatia17&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -148,7 +180,6 @@ interests:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
   ### ⭐ If you like my work, consider giving my repositories a star!
@@ -157,8 +188,10 @@ interests:
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-  
+  Made with 💜 by Ridhi Bhatia
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling" />
+</div>
